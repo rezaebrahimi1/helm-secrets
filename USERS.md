@@ -9,3 +9,4 @@ information to this file.
 | Organization | Workload   | More Info                                                | Location | Added    |
 |--------------|------------|----------------------------------------------------------|----------|----------|
 | adorsys      | production | Using helm-secrets for production deployments since 2017 | Germany  | Dec 2022 |
+|--------------|------------|----------------------------------------------------------|----------|----------|
